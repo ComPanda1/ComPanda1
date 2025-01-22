@@ -1,12 +1,39 @@
-# 💫 About Me:
-Hola👋. Soy un pequeño programador de FiveM, que esta empezando a subir sus proyectos en github!
+<h1 align="left">Hey 👋 Que Pasa?</h1>
 
+###
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ComPanda1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ComPanda1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ComPanda1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">Mi nombre es ComPanda. Soy un programador pequeño que esta aprendiendo en el mundo de FiveM!</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Contento<br>📚 Estoy estudiando<br>💻FiveM Dev</p>
+
+###
+
+<h2 align="left">PROGRAMO</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ComPanda1/ComPanda1/output/snake.svg" alt="Snake animation" />
+
+###
