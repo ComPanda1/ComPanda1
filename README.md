@@ -1,35 +1,35 @@
-<h1 align="left">Hey 👋 Que Pasa?</h1>
+# ✨ ¡Hola, soy ComPanda! ✨
 
-###
+---
 
-<p align="left">Mi nombre es ComPanda. Soy un programador pequeño que esta aprendiendo en el mundo de FiveM!</p>
+## 💻 Desarrollador | Automatización & FiveM 🎮
 
-###
+Apasionado por crear soluciones eficientes con **Python** y enriquecer la experiencia de juego en **FiveM**.
 
-<h2 align="left">About me</h2>
+---
 
-###
+### **🐍 Python Dev**
+Scripts, automatización y herramientas personalizadas.
 
-<p align="left">✨ Contento<br>📚 Estoy estudiando<br>💻FiveM Dev</p>
+### **🏎️ FiveM Resources**
+Desarrollo de scripts y contenido para GTA V.
 
-###
+---
 
-<h2 align="left">PROGRAMO</h2>
+## 🛠️ Habilidades
 
-###
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+<img src="https://img.shields.io/badge/FiveM-F25F4C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjEgMTF2LTJoLTJ2Mmg0em0tNiAxMi45MDMtOS42NTktNS4yNDUtMi4xMzYtNy42NTlMNi42MjEgMi4xMSAyMS44OSA1LjUwMyAyMi41MTUgNy41bDYuMDkgMTEuOTg1LTMuODQ0IDMuOTExem0tOS4yODItMi4zMjdMNi4zMzUgNS43ODcgMTcuMDcxIDMuNzEybDEuNzU2IDUuNjczLTkuMDc2IDEzLjcxMmwtMi42MDQtNi40NzV6Ii8+PC9zdmc+" alt="FiveM Badge">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
+## 🤝 Conecta Conmigo
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario/)
+
+---
+
+✨ ¡Gracias por tu visita! ✨
