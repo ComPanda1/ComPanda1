@@ -1,4 +1,4 @@
-# ✨ ¡Hola, soy ComPanda! ✨
+# ✨ ¡Hola, soy ComPanda! 👋
 
 ---
 
@@ -22,9 +22,9 @@ Desarrollo de scripts y contenido para GTA V.
 
 ---
 
-## 🤝 Conecta Conmigo
+## 📧 Contacto
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmpn.studios.info@gmail.com)
+Puedes contactarme por correo electrónico en: **cmpn.studios.info@gmail.com**
 
 ---
 
