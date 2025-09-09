@@ -24,7 +24,7 @@ Desarrollo de scripts y contenido para GTA V.
 
 ## 🤝 Conecta Conmigo
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmpn.studios.info@gmail.com)
 
 ---
 
